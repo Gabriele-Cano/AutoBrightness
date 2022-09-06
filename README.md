@@ -14,9 +14,9 @@ pip install darkdetect monitorcontrol pystray pyserial Pillow
 5. Upload the code to Arduino
 6. Make this circuit
     ![image](https://user-images.githubusercontent.com/43409523/188657014-5838862b-248a-429e-8a7c-0b4a65e13ba2.png)
-7. change COM_PORT with the port written in the Arduino IDE
+7. Change the COM_PORT variabile in the .pyw script with the port written in the Arduino IDE
     <br>
     ![image](https://user-images.githubusercontent.com/43409523/188657337-1c25b88b-d282-4db6-9dd0-55a419953a10.png)
     <br>
-8. Start the .pyw script 
+8. Start the .pyw script double-clicking it
 9. Profit
