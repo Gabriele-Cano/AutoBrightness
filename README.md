@@ -6,7 +6,9 @@ Use autobrightness for your external monitor
  
 1. Install [python and pip](https://www.python.org/downloads/)
 2. Install dependecies with cmd
-    pip install darkdetect, monitorcontrol, pystray, pyserial, Pillow
+```
+pip install darkdetect, monitorcontrol, pystray, pyserial, Pillow
+```
 3. Install [Arduino IDE](https://www.arduino.cc/en/software)
 4. Download everything as Zip
 5. Upload the code to Arduino
