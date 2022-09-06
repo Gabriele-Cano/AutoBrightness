@@ -1,6 +1,6 @@
 # AutoBrightness
 
-Use autobrightness for your external monitor
+AutoBrightness for your external monitor
 
 ## Installation
  
