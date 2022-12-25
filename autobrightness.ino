@@ -11,8 +11,6 @@ void loop() {
   if (index == 100) {
     mediaPrev = media / 100;
     hundreds = mediaPrev/100;
-    //Serial.print(centinaia);
-    //Serial.print("   ");
     if (hundreds <= 8) {
       brightness = 3.5*log10((hundreds) + 1) * 10;
     } else {
